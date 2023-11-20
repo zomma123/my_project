@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1> ໜ້າຫຼັກ </h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus nobis, iusto asperiores ratione doloribus officia consequuntur fugit consequatur delectus, neque repudiandae rerum harum assumenda. Vero ipsa impedit minus minima doloremque!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus, laudantium!</p>
   </div>
 </template>
 
